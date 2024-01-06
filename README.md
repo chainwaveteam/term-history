@@ -1,4 +1,3 @@
-![Screenshot](./Screenshot.png)
 
 # term-history
 
