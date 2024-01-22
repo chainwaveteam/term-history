@@ -12,7 +12,7 @@ It supports alias resolution for `zsh` shell.
 ```bash
 echo $HISTFILE
 ```
-
+ 
 2. Call the program with that file path as argument
 
 ```bash
